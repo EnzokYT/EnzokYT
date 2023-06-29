@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Enzok's </h1>
 
-<h4 align="center">I control Python<br>And i'm learning JS, C++ & Lua.</h4>
+<h4 align="center">I control Python<br>And i'm learning JS, C++, Lua & JAVA.</h4>
 
 <h2 align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
