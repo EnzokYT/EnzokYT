@@ -15,7 +15,7 @@
 <h2 align="center"> My GitHub Stats: </h2>
   
 <p align="center">
-  <img src="https://github-readme-stats-zenixas.vercel.app/api?username=AkaDevloppement&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats-zenixas.vercel.app/api?username=EnzokYT&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark">
 </p>
 
 <p align="center">
