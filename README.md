@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=AkaDevloppement&layout=compact&theme=dark">
+  <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=EnzokYT&layout=compact&theme=dark">
 </p>
